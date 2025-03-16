@@ -1,0 +1,35 @@
+
+Education Performance Analysis Report
+-----------------------------------
+Total Students: 20
+
+Highest Total Marks:
+🏆                   name  total_marks
+10  siddharth malhotra          288
+19        gaurav yadav          281
+8         vikram singh          273
+14         manoj kumar          268
+5          neha kapoor          263
+
+Lowest Total Marks:
+🔻             name  total_marks
+15  tanisha khan          219
+9     pooja iyer          226
+18  nidhi sharma          229
+6     aman joshi          236
+11   divya menon          237
+
+Average Percentage: 83.38%
+Highest Percentage: 96.00%
+Lowest Percentage: 73.00%
+
+🏅 Highest Marks in Each Subject:
+Math: 95 - siddharth malhotra
+Science: 97 - siddharth malhotra
+English: 96 - siddharth malhotra
+
+Grade Distribution:
+Grade
+B    16
+A     3
+C     1
